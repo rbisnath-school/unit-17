@@ -1,0 +1,91 @@
+
+.logo {
+    background: white;
+    height: 553px;
+    background-image: url("../images/rb-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;    
+
+}
+
+.nav {
+    display: flex;
+    background-color: #739FE8;
+    border-radius: 30px;
+    font-family: "Paytone One", sans-serif;
+    color: white;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: large;
+
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.left {
+    padding-left: 20px;
+}
+
+.right {
+    font-size: x-large;
+    padding-right: 20px;
+}
+
+
+
+.column {
+    display: flex;
+
+
+    flex-direction: column;
+    margin: 0 auto;
+
+}
+
+.casestudy1, .casestudy2, .casestudy3 {
+
+    border-bottom: lightgrey 1px solid;
+
+
+
+}
+
+
+
+.text {
+    color: grey;
+    padding: 20px;
+
+}
+
+.text p {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text H1 {
+    font-family: "Anton", sans-serif;
+}
+
+
+
+.footer {
+    margin-top: 20px;
+    display: flex;
+    background-color: #739FE8;
+    border-radius: 30px;
+    font-family: "Paytone One", sans-serif;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+
+
+
